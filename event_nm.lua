@@ -1,0 +1,5 @@
+character_1:WithWaitTime(2222):UseSkill(1)
+character_1:UseSkill(2)
+Summon(3)
+Wait(1000)
+EnableChargeAttack()
